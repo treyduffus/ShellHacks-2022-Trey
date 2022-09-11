@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    padding: 30px;
+    background-color: grey;
+    color:white;
+    font-size: 60px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+}
+p{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+body{
+    background-color: grey;
+    background-image: url(images/spaceback.jpg);
+}
+section div{
+    margin-top: 100px;
+    color: white;
+    font-size: 50px;
+}
+div.Low{
+    display: inline-block;
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 0px;
+    
+}
+div.High{
+    display: inline-block;
+    text-align: center;
+    margin-right: 0px;
+}
+div ul li{
+    font-size: 30px;
+}
